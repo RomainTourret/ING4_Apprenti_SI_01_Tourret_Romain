@@ -20,7 +20,9 @@ This folder contains the first assignement asked in the web tech course. The ide
 	
 	3. Now you can open your favorite internet navigator and enter one of the following URL:
 		. //http://localhost:8080/hello?name=Romain
+		
 		. //http://localhost:8080/hello?name=WhatEverYouWant
+		
 		. //http://localhost:8080/hello?age=13
 	
 		The web application is designed to return whatever name you'll throw at it except in 2 cases :
