@@ -1,0 +1,11 @@
+{
+  "name": "git_tp1",
+  "version": "1.0.0",
+  "description": "Assignement number 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romain Tourret",
+  "license": "ISC"
+}
